@@ -1,0 +1,39 @@
+Q.1 Identify the top 5 most expensive cars listed in the dataset.
+
+Q.2 Find the total number of cars available for each fuel type.
+
+Q.3 List the average selling price of cars for each year of manufacture.
+
+Q.4 Identify the car model with the highest mileage among manual transmission cars.
+
+Q.5 Calculate the total number of kilometers driven for cars sold by dealers.
+
+Q.6 Determine the average engine capacity for cars with more than one previous owner.
+
+Q.7 Find the car model that has the highest torque in the dataset.
+
+Q.8 List the top 3 most powerful cars (based on max_power) for each fuel type.
+
+Q.9 Calculate the total and average selling price of cars grouped by the number of seats.
+
+Q.10 Identify cars that have a selling price higher than the average selling price of all cars in the dataset.
+
+Q.11 Find the average mileage of petrol cars that are listed by individual sellers.
+
+Q.12 Determine the distribution of cars by the type of transmission and fuel type (using GROUP BY and COUNT).
+
+Q.13 Identify the car models that have the same engine capacity but differ in maximum power output.
+
+Q.14 List the names and selling prices of the top 5 most recent cars (by year) that have been driven less than 10,000 km.
+
+Q.15 Calculate the average selling price for each combination of fuel type and transmission type.
+
+Q.16 Find cars that have more than 5 seats and list them along with their selling price and engine capacity.
+
+Q.17 Identify the least driven car for each year of manufacture.
+
+Q.18 List all cars with a mileage greater than the average mileage of diesel cars.
+
+Q.19 Determine the correlation between engine capacity and selling price. (Hint: This requires calculating the correlation coefficient.)
+
+Q.20 Find the maximum, minimum, and average kilometers driven by cars with automatic transmission.
